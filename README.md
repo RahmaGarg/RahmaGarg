@@ -1,43 +1,50 @@
 <div align="center">
-  <h1>👋 Hey there, I'm Rahma!</h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineering+Graduate+%F0%9F%8E%93;Building+Enterprise+Web+Solutions+%F0%9F%92%BB;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there,%20I'm%20Rahma!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Engineering+Graduate+%F0%9F%8E%93;Spring+Boot+%26+Angular+Expert+%F0%9F%92%BB;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Blockchain+Developer+%E2%9B%93%EF%B8%8F" alt="Typing SVG" />
+</div>
+
+<br>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/gargouri-rahma-2a1334256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gargouri.rahma@enis.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gargouri-rahma-2a1334256"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+  <a href="mailto:gargouri.rahma@enis.tn"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
+  <a href="https://github.com/rahmagar"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
 </p>
 
-<hr>
+<br>
 
-<h2>🚀 About Me</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<pre>
-<code>
-const developer = {
-    name: "Rahma Gargouri",
-    role: "Full Stack Developer",
-    education: "Software Engineering Graduate 🎓",
-    location: "Sfax, Tunisia 🇹🇳",
-    experience: "Building enterprise web applications",
-    codeLanguages: ["Python", "Java", "C/C++", "JavaScript", "TypeScript", "PHP", "SQL", "Solidity"],
-    technologies: {
-        frontend: ["Angular", "React.js", "Flutter", "ASP.NET MVC"],
-        backend: ["Spring Boot", "Flask", "Node.js", "ASP.NET"],
-        databases: ["PostgreSQL", "MySQL", "Oracle"],
-        cloud: ["AWS", "Docker", "Terraform", "Ansible"],
-        devOps: ["Jenkins", "GitLab CI/CD", "Docker Compose", "Git"],
-        testing: ["JUnit", "Mockito", "Robot Framework"],
-    },
-    currentFocus: "Enterprise applications with Spring Boot & Angular",
-    certifications: ["AWS Cloud Practitioner", "Docker - KodeKloud", "Jenkins - KodeKloud"],
-    funFact: "I've built a blockchain parking system with computer vision! 🚗⛓️"
-};
-</code>
-</pre>
+<br>
 
-<hr>
+## 💫 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+🎓 **Software Engineering Graduate** from ENIS, Sfax
+
+💼 **Full Stack Developer** specializing in enterprise applications
+
+🔭 Currently working with **Spring Boot & Angular**
+
+🌱 Exploring **Cloud Architecture & Microservices**
+
+⚡ Built a **Blockchain Smart Parking System** with AI
+
+🎯 Passionate about **DevOps, CI/CD & Automation**
+
+💡 Open to **collaborate on innovative projects**
+
+📫 Reach me at **gargouri.rahma@enis.tn**
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -55,96 +62,107 @@ const developer = {
 
 <hr>
 
-<h2>📊 GitHub Statistics</h2>
+
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?theme=tokyonight&hide_border=true&user=yourusername" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RahmaGarg&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?theme=radical&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=ff6b6b&currStreakLabel=6366f1&user=RahmaGarg" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaGarg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RahmaGarg&theme=react-dark&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ff6b6b&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RahmaGarg&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-<hr>
+<br>
 
-<h2>📈 Contribution Graph</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 💼 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+  
+<table>
+<tr>
+<td width="50%">
 
-<hr>
+### 🏢 Annual Review Management
+**Full-Stack Enterprise Application**
 
-<h2>🏆 GitHub Trophies</h2>
+- Employee self-evaluation & assessment platform
+- Spring Security role-based access control  
+- Dynamic dashboards with interactive reports
+- Dockerized deployment with CI/CD
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+**Tech Stack:**
+`Spring Boot` `Angular` `PostgreSQL` `Docker` `GitLab CI/CD`
 
-<hr>
+</td>
+<td width="50%">
 
-<h2>💼 Featured Projects</h2>
+### 🚗 Blockchain Smart Parking
+**Mobile dApp with Computer Vision**
 
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</div>
+- Flutter mobile app with blockchain
+- License plate recognition (TensorFlow)
+- Smart contracts for vehicle authorization
+- Admin dashboard for operations
 
-<hr>
+**Tech Stack:**
+`Flutter` `Solidity` `Node.js` `TensorFlow` `Ganache`
 
-<h2>💡 Highlight Projects</h2>
+</td>
+</tr>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3>🏢 Annual Review Management System</h3>
-      <p><b>Full-Stack Enterprise Application</b></p>
-      <p>• Employee self-evaluation & managerial assessment platform</p>
-      <p>• Role-based access control with Spring Security</p>
-      <p>• Dynamic dashboards with interactive charts & reports</p>
-      <p>• Dockerized deployment with CI/CD pipeline</p>
-      <p><b>Tech:</b> Spring Boot, Angular, PostgreSQL, Docker</p>
-    </td>
-    <td width="50%">
-      <h3>🚗 Blockchain Smart Parking dApp</h3>
-      <p><b>Mobile App with Computer Vision</b></p>
-      <p>• Flutter mobile app with blockchain integration</p>
-      <p>• License plate recognition using TensorFlow</p>
-      <p>• Smart contracts for automated vehicle authorization</p>
-      <p>• Admin dashboard for parking operations</p>
-      <p><b>Tech:</b> Flutter, Solidity, Node.js, TensorFlow</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>☁️ AWS CI/CD Pipeline</h3>
-      <p><b>Infrastructure as Code</b></p>
-      <p>• Automated CI/CD pipeline on AWS</p>
-      <p>• Infrastructure provisioning with Terraform</p>
-      <p>• Configuration management with Ansible</p>
-      <p>• Continuous deployment with Jenkins & Docker</p>
-      <p><b>Tech:</b> AWS, Terraform, Ansible, Jenkins, Docker</p>
-    </td>
-    <td width="50%">
-      <h3>🛠️ After-Sales Service Platform</h3>
-      <p><b>Customer Service Management</b></p>
-      <p>• Client complaint tracking & technical interventions</p>
-      <p>• MVC architecture with ASP.NET</p>
-      <p>• Entity Framework for data persistence</p>
-      <p>• Ergonomic interfaces for all user roles</p>
-      <p><b>Tech:</b> ASP.NET, Entity Framework, SQL Server</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### ☁️ AWS CI/CD Pipeline
+**Infrastructure as Code**
+
+- Automated CI/CD pipeline on AWS
+- Infrastructure provisioning with Terraform
+- Configuration management with Ansible
+- Continuous deployment automation
+
+**Tech Stack:**
+`AWS` `Terraform` `Ansible` `Jenkins` `Docker`
+
+</td>
+<td width="50%">
+
+### 🛠️ After-Sales Service Platform
+**Customer Service Management**
+
+- Client complaint tracking system
+- Technical intervention management
+- MVC architecture with Entity Framework
+- Role-based ergonomic interfaces
+
+**Tech Stack:**
+`ASP.NET` `Entity Framework` `SQL Server` `MVC`
+
+</td>
+</tr>
 </table>
 
-<hr>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <h2>🎯 What I'm Up To</h2>
 
@@ -159,33 +177,54 @@ const developer = {
 
 <hr>
 
-<h2>📜 Certifications</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-Certified-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
-
-<hr>
-
-<h2>📫 Let's Connect!</h2>
-
-<p align="center">
-I'm always excited to discuss technology, collaborate on projects, or explore new opportunities!<br>
-Whether you want to talk about Spring Boot, Angular, DevOps, or the latest in tech – feel free to reach out!
-</p>
+## 📜 Certifications
 
 <div align="center">
-  <h3>"First, solve the problem. Then, write the code." – John Johnson</h3>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="60" height="60" alt="AWS"/>
+        <br><b>AWS Cloud Quest</b>
+        <br>Cloud Practitioner
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/docker.png" width="60" height="60" alt="Docker"/>
+        <br><b>Docker</b>
+        <br>KodeKloud Certified
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/96/000000/jenkins.png" width="60" height="60" alt="Jenkins"/>
+        <br><b>Jenkins</b>
+        <br>KodeKloud Certified
+      </td>
+    </tr>
+  </table>
 </div>
 
-<hr>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 📫 Let's Connect!
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+I'm always excited to discuss technology, collaborate on projects, or explore new opportunities!
+
+Whether you want to talk about **Spring Boot**, **Angular**, **DevOps**, **Blockchain**, or the latest in tech – feel free to reach out!
+
+<br>
+
+### *"First, solve the problem. Then, write the code."*
+
+<br>
+
+
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
